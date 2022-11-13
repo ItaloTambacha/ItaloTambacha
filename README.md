@@ -9,7 +9,7 @@ Eu sou um programador front-End, atualmente estou aprendendo e criando projetos 
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <br>
 
-<!--
+
 
 ### Conecte-se comigo:
 <p>
