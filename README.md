@@ -1,6 +1,6 @@
 Olá!!!
 
-Eu sou o Ítalo Tambacha, sou um programador front-End, atualmente estou aprendendo e criando projetos com:
+Eu sou um programador front-End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
@@ -16,7 +16,7 @@ Eu sou o Ítalo Tambacha, sou um programador front-End, atualmente estou aprende
 <a href="">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a/>
-<a href="">
+<a href="https://www.linkedin.com/in/%C3%ADtalo-tambacha-716a89b4/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
