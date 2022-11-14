@@ -18,7 +18,7 @@ Eu sou um programador front-End, atualmente estou aprendendo e criando projetos 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 <a/>
-<a href="https://www.linkedin.com/in/%C3%ADtalo-tambacha-716a89b4/">
+<a href="https://www.linkedin.com/in/italotambacha/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
